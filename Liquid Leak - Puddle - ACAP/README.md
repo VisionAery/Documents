@@ -39,7 +39,7 @@ Date Updated: March 12 2025
 # Licensing:
 
 ## For app licensing, please send "Device BLOB" to  [support@visionaery.com](mailto:support@visionaery.com)
-### The Device BLOP can be found on the LLD ACAP App web UI unfer the "License" Tab
+### The Device BLOB can be found on the LLD ACAP App web UI unfer the "License" Tab
 ![](./setup_images/App_License_Page.png)
 
 
