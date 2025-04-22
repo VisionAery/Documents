@@ -14,7 +14,7 @@ Date Updated: March 12 2025
 # Setup:
 
 1. On the Axis Camera with ARTPEC-8 SOC go to the "Apps" Tab <br>
-![Image of App page on Camera Web UI](../setup_images/app_page.png "App Page")
+![Image of App page on Camera Web UI](./setup_images/app_page.png "App Page")
 
 1. Make sure both ""Allow unassigned apps" and "Allow root-privileged app" are enabled <br>
 ![Image of enabled radio buttons](./setup_images/enable_unassigned_and_root_apps.png)
